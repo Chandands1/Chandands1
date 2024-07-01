@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Chandan D S</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h1 align="center">Hi there! 👋, I'm Chandan D S</h1>
+<h3 align="center">A dedicated and innovative full stack developer from India</h3>
 
 <img align="right" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="GIF Image" width="400" style="float: right;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandands1&label=Profile%20views&color=0e75b6&style=flat" alt="chandands1" /> </p>
-
-- 💬 Ask me about **Java, MERN**
 
 - 📫 How to reach me **chandandhanush273747@gmail.com**
 
