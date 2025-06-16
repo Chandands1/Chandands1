@@ -5,18 +5,17 @@
   <img src="https://komarev.com/ghpvc/?username=chandands1&label=Profile%20Views&color=0e75b6&style=flat" alt="chandands1" />
 </p>
 
-
 ---
 
 ## 🚀 About Me
 
-I’m a self-taught, passionate **Blockchain Developer** specialized in building smart contracts and full-stack dApps on the **Solana** ecosystem using **Rust**. I also explore DeFi protocols, smart contract security, and Web3 infrastructure.
+I’m a **self-taught, passionate Blockchain Developer** focused on building smart contracts and full-stack dApps in the **Solana** ecosystem using **Rust**. I’m deeply interested in DeFi protocols, smart contract security, and Web3 infrastructure. My goal is to become a leading Solana blockchain developer and achieve significant milestones in the Web3 space[2][3].
 
-- 🔭 **Currently Building:** DeFi Protocols & Web3 APIs in Rust  
-- 🧠 **Learning:** Smart Contract Security | Foundry | Anchor | Actix-Web  
-- 🛠️ **Skills:** Rust, Solana, Anchor, React, Tailwind, Docker, GitHub Actions  
-- 🌐 **Portfolio:** [chandands.vercel.app](https://chandands.vercel.app)  
-- 📨 **Reach Me:** chandandhanush273747@gmail.com  
+- 🔭 **Currently Building:** DeFi Protocols & Web3 APIs in Rust
+- 🧠 **Learning:** Smart Contract Security | Foundry | Anchor Framework | Actix-Web
+- 🛠️ **Skills:** Rust, Solana, Anchor, React, Tailwind, Docker, GitHub Actions
+- 🌐 **Portfolio:** [chandands.vercel.app](https://chandands.vercel.app)
+- 📨 **Reach Me:** chandandhanush273747@gmail.com
 
 ---
 
@@ -73,6 +72,7 @@ I’m a self-taught, passionate **Blockchain Developer** specialized in building
 ---
 
 ## 📊 GitHub Stats
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=chandands1&show_icons=true&locale=en&theme=radical" alt="chandands1 stats" />
 </p>
@@ -82,6 +82,3 @@ I’m a self-taught, passionate **Blockchain Developer** specialized in building
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chandands1&show_icons=true&locale=en&layout=compact&theme=radical" alt="top languages" />
 </p>
-
----
-
