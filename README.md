@@ -5,9 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=chandands1&label=Profile%20Views&color=0e75b6&style=flat" alt="chandands1" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Blockchain Coding" width="400"/>
-</p>
 
 ---
 
