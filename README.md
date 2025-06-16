@@ -27,18 +27,22 @@ I am passionate about contributing to open-source projects and sharing knowledge
 - **GitHub Contributions:** Regularly push code, open issues, and review pull requests.
 - **Community Engagement:** Share insights on Twitter, discuss ideas on LinkedIn, and engage with fellow developers.
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandands1&theme=github-compact&custom_title=My%20GitHub%20Contributions&hide_border=true" alt="GitHub Contribution Graph" />
+</p>
+
 ---
 
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://x.com/chandands027" target="_blank">
+  <a href="https://twitter.com/chandan_gowda_1" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40"/>
   </a>
   <a href="https://www.linkedin.com/in/chandan-d-s-281a89320/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40"/>
   </a>
-  <a href="https://www.instagram.com/chandan_gowda_d.s/" target="_blank">
+  <a href="https://www.instagram.com/chandan_d_s01/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40"/>
   </a>
 </p>
@@ -49,10 +53,9 @@ I am passionate about contributing to open-source projects and sharing knowledge
 
 ### 💠 Blockchain Development
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ethereum/ethereum-original.svg" alt="Ethereum" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/E/ethers-io-logo-B394F3B568-seeklogo.com.png" alt="Ethers.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity" width="40" height="40"/>
+  <img src="https://seeklogo.com/images/E/ethers-io-logo-B394F3B568-seeklogo.com.png" alt="Ethers.js" width="40" height="40" style="display:none;"/>
 </p>
 
 ### 🌐 Frontend Development
@@ -83,6 +86,6 @@ I am passionate about contributing to open-source projects and sharing knowledge
 
 ## 💻 Most Used Languages
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chandands1&show_icons=true&locale=en&layout=compact&theme=radical" alt="top languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chandands1&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
