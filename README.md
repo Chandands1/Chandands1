@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, World! 🌍 I'm Chandan D S</h1>
-<h3 align="center">🔗 Blockchain Developer | 🛠️ Rust & Solana Enthusiast | 🇮🇳 From India</h3>
+<h3 align="center">🔗 Blockchain Developer | 🛠️ Rust & Solana Enthusiast </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chandands1&label=Profile%20Views&color=0e75b6&style=flat" alt="chandands1" />
@@ -19,13 +19,13 @@ I’m a **self-taught, passionate Blockchain Developer** focused on building sma
 
 ---
 
-## ✨ Community & Collaboration
+## ✨ Contribution
 
-I’m all about open-source, sharing knowledge, and helping others in the blockchain community. Always looking to collaborate on Solana, Rust, and Web3 projects!
+I am passionate about contributing to open-source projects and sharing knowledge with the community. I actively participate in blockchain forums, help others solve problems, and look for opportunities to collaborate on impactful projects.
 
-- **Open to Collaborations:** Yes! Let’s build something awesome together.
-- **GitHub Contributions:** Regular code pushes, issue tracking, and PR reviews.
-- **Community Engagement:** Sharing insights on Twitter, LinkedIn, and more.
+- **Open to Collaborations:** Always looking to contribute to Solana, Rust, and Web3 open-source projects.
+- **GitHub Contributions:** Regularly push code, open issues, and review pull requests.
+- **Community Engagement:** Share insights on Twitter, discuss ideas on LinkedIn, and engage with fellow developers.
 
 ---
 
