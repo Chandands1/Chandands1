@@ -1,4 +1,4 @@
-<h1 align="center">Hello, World! 🌍 I'm Chandan D S</h1>
+<h1 align="center">👋 Hello, World! 🌍 I'm Chandan D S</h1>
 <h3 align="center">🔗 Blockchain Developer | 🛠️ Rust & Solana Enthusiast | 🇮🇳 From India</h3>
 
 <p align="center">
@@ -7,55 +7,50 @@
 
 ---
 
-## 🚀 About Me
+## 🌟 About Me
 
-I’m a **self-taught, passionate Blockchain Developer** focused on building smart contracts and full-stack dApps in the **Solana** ecosystem using **Rust**. I’m deeply interested in DeFi protocols, smart contract security, and Web3 infrastructure. My goal is to become a leading Solana blockchain developer and achieve significant milestones in the Web3 space.
+I’m a **self-taught, passionate Blockchain Developer** focused on building smart contracts and full-stack dApps in the **Solana** ecosystem using **Rust**. I love DeFi protocols, smart contract security, and building Web3 infrastructure.
 
-- 🔭 **Currently Building:** DeFi Protocols & Web3 APIs in Rust  
-- 🧠 **Learning:** Smart Contract Security | Foundry | Anchor Framework | Actix-Web  
-- 🛠️ **Skills:** Rust, Solana, Anchor, React, Tailwind, Docker, GitHub Actions  
-- 🌐 **Portfolio:** [chandands.vercel.app](https://chandands.vercel.app)  
-- 📨 **Reach Me:** chandandhanush273747@gmail.com  
+- **🔭 Currently Building:** DeFi Protocols & Web3 APIs in Rust  
+- **🧠 Learning:** Smart Contract Security | Foundry | Anchor Framework | Actix-Web  
+- **🛠️ Skills:** Rust, Solana, Anchor, React, Tailwind, Docker, GitHub Actions  
+- **🌐 Portfolio:** [chandands.vercel.app](https://chandands.vercel.app)  
+- **📨 Reach Me:** chandandhanush273747@gmail.com  
 
 ---
 
-## ✨ Contribution
+## ✨ Community & Collaboration
 
-I am passionate about contributing to open-source projects and sharing knowledge with the community. I actively participate in blockchain forums, help others solve problems, and look for opportunities to collaborate on impactful projects.
+I’m all about open-source, sharing knowledge, and helping others in the blockchain community. Always looking to collaborate on Solana, Rust, and Web3 projects!
 
-- **Open to Collaborations:** Always looking to contribute to Solana, Rust, and Web3 open-source projects.
-- **GitHub Contributions:** Regularly push code, open issues, and review pull requests.
-- **Community Engagement:** Share insights on Twitter, discuss ideas on LinkedIn, and engage with fellow developers.
+- **Open to Collaborations:** Yes! Let’s build something awesome together.
+- **GitHub Contributions:** Regular code pushes, issue tracking, and PR reviews.
+- **Community Engagement:** Sharing insights on Twitter, LinkedIn, and more.
+
+---
+
+## 💌 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandands1&theme=github-compact&custom_title=My%20GitHub%20Contributions&hide_border=true" alt="GitHub Contribution Graph" />
-</p>
-
----
-
-## 🌐 Connect with Me
-
-<p align="left">
   <a href="https://twitter.com/chandan_gowda_1" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="35" width="35"/>
   </a>
   <a href="https://www.linkedin.com/in/chandan-d-s-281a89320/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="35" width="35"/>
   </a>
   <a href="https://www.instagram.com/chandan_d_s01/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="35" width="35"/>
   </a>
 </p>
 
 ---
 
-## 🧠 Tech Stack
+## 🧩 Tech Stack
 
 ### 💠 Blockchain Development
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/E/ethers-io-logo-B394F3B568-seeklogo.com.png" alt="Ethers.js" width="40" height="40" style="display:none;"/>
 </p>
 
 ### 🌐 Frontend Development
@@ -84,7 +79,7 @@ I am passionate about contributing to open-source projects and sharing knowledge
 
 ---
 
-## 💻 Most Used Languages
+## 🚀 Top Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chandands1&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
