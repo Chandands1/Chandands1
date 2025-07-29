@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, World! 🌍 I'm Chandan D S</h1>
-<h3 align="center">🔗 Blockchain Developer | 🛠️ Rust & Solana Enthusiast </h3>
+<h3 align="center">💻 Java Full Stack Developer | ⚙️ Spring Boot & React Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chandands1&label=Profile%20Views&color=0e75b6&style=flat" alt="chandands1" />
@@ -9,11 +9,11 @@
 
 ## 🌟 About Me
 
-I’m a **self-taught, passionate Blockchain Developer** focused on building smart contracts and full-stack dApps in the **Solana** ecosystem using **Rust**. I love DeFi protocols, smart contract security, and building Web3 infrastructure.
+I’m a **self-taught, passionate Java Full Stack Developer** focused on building scalable, secure, and high-performance web applications using **Spring Boot + React**. I love working on enterprise-level systems, RESTful APIs, and crafting responsive UI with modern design systems.
 
-- **🔭 Currently Building:** DeFi Protocols & Web3 APIs in Rust  
-- **🧠 Learning:** Smart Contract Security | Foundry | Anchor Framework | Actix-Web  
-- **🛠️ Skills:** Rust, Solana, Anchor, React, Tailwind, Docker, GitHub Actions  
+- **🔭 Currently Building:** Full-stack fintech dashboards & backend systems  
+- **🧠 Learning:** System Design | Microservices Architecture | Cloud Deployment (AWS & Docker)  
+- **🛠️ Skills:** Java, Spring Boot, React, Tailwind, PostgreSQL, Docker, CI/CD, GitHub Actions  
 - **🌐 Portfolio:** [chandands.vercel.app](https://chandands.vercel.app)  
 - **📨 Reach Me:** chandandhanush273747@gmail.com  
 
@@ -21,11 +21,11 @@ I’m a **self-taught, passionate Blockchain Developer** focused on building sma
 
 ## ✨ Contribution
 
-I am passionate about contributing to open-source projects and sharing knowledge with the community. I actively participate in blockchain forums, help others solve problems, and look for opportunities to collaborate on impactful projects.
+I actively contribute to open-source Java and React-based projects and enjoy collaborating with teams that build impactful tech products. I participate in developer forums, write clean and scalable code, and believe in lifelong learning.
 
-- **Open to Collaborations:** Always looking to contribute to Solana, Rust, and Web3 open-source projects.
-- **GitHub Contributions:** Regularly push code, open issues, and review pull requests.
-- **Community Engagement:** Share insights on Twitter, discuss ideas on LinkedIn, and engage with fellow developers.
+- **Open to Collaborations:** Java microservices, full-stack SaaS apps, internal tools
+- **GitHub Contributions:** Building API services, integrating React UIs, reviewing codebases
+- **Community Engagement:** Share ideas on LinkedIn and support new devs on GitHub
 
 ---
 
@@ -47,10 +47,12 @@ I am passionate about contributing to open-source projects and sharing knowledge
 
 ## 🧩 Tech Stack
 
-### 💠 Blockchain Development
+### ☕ Backend Development
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
 </p>
 
 ### 🌐 Frontend Development
@@ -63,17 +65,12 @@ I am passionate about contributing to open-source projects and sharing knowledge
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40"/>
 </p>
 
-### 🔧 Backend & Web3 API
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/99961058?s=200&v=4" alt="Actix-Web" width="40" height="40"/>
-</p>
-
-### 🧰 Tools & DevOps
+### 🛠️ DevOps & Tools
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
 </p>
 
