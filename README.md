@@ -14,7 +14,7 @@ I’m a **self-taught, passionate Java Full Stack Developer** focused on buildin
 - **🔭 Currently Building:** Full-stack fintech dashboards & backend systems  
 - **🧠 Learning:** System Design | Microservices Architecture | Cloud Deployment (AWS & Docker)  
 - **🛠️ Skills:** Java, Spring Boot, React, Tailwind, PostgreSQL, Docker, CI/CD, GitHub Actions  
-- **🌐 Portfolio:** [chandands.vercel.app](https://chandands.vercel.app)  
+- **🌐 Portfolio:** [chandands.vercel.app](https://portfolio-chandan-ds.vercel.app/)  
 - **📨 Reach Me:** chandandhanush273747@gmail.com  
 
 ---
