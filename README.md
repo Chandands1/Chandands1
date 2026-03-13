@@ -16,7 +16,6 @@ I'm a **Software Engineer specializing in backend systems and distributed applic
 - **🔭 Currently Building:** Distributed task scheduler & real-time trading engine in Go  
 - **🧠 Deep Diving:** System Design, Distributed Systems, Kubernetes, Database Internals  
 - **🎯 Open to:** Backend Engineering roles in Go/Java, Cloud Infrastructure, Platform Engineering  
-- **🌐 Portfolio:** [chandands.vercel.app](https://portfolio-chandan-ds.vercel.app/)  
 - **📧 Email:** chandandhanush273747@gmail.com  
 - **📍 Location:** Bangalore, India  
 
